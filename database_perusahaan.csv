@@ -1,0 +1,21 @@
+id_persediaan,kode_barang,nama_barang,stok_awal,stok_masuk,stok_keluar,tanggal_update,lokasi_gudang
+1,BRG001,Barang A,100,50,30,2024-11-01,Gudang Utama
+2,BRG002,Barang B,200,70,40,2024-11-02,Gudang Utama
+3,BRG003,Barang C,150,60,20,2024-11-03,Gudang Utara
+4,BRG004,Barang D,90,30,15,2024-11-04,Gudang Timur
+5,BRG005,Barang E,120,45,25,2024-11-05,Gudang Selatan
+6,BRG006,Barang F,80,20,10,2024-11-06,Gudang Barat
+7,BRG007,Barang G,140,35,20,2024-11-07,Gudang Pusat
+8,BRG008,Barang H,130,40,30,2024-11-08,Gudang Utama
+9,BRG009,Barang I,110,25,10,2024-11-09,Gudang Utara
+10,BRG010,Barang J,100,50,20,2024-11-10,Gudang Timur
+11,BRG011,Barang K,90,20,5,2024-11-11,Gudang Selatan
+12,BRG012,Barang L,160,75,30,2024-11-12,Gudang Barat
+13,BRG013,Barang M,70,15,5,2024-11-13,Gudang Pusat
+14,BRG014,Barang N,95,35,10,2024-11-14,Gudang Utama
+15,BRG015,Barang O,130,55,25,2024-11-15,Gudang Utara
+16,BRG016,Barang P,140,60,40,2024-11-16,Gudang Timur
+17,BRG017,Barang Q,115,40,20,2024-11-17,Gudang Selatan
+18,BRG018,Barang R,85,30,15,2024-11-18,Gudang Barat
+19,BRG019,Barang S,100,20,10,2024-11-19,Gudang Pusat
+20,BRG020,Barang T,75,10,5,2024-11-20,Gudang Utama
